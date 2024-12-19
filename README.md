@@ -1,2 +1,2 @@
 # BananaERP
-ERP reinvented
+Start of something legendary.
